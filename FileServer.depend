@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1395006536 source:c:\users\ryan flynn\dropbox\c++2\week07\fileserver\socket.cpp
+	"Socket.h"
+
+1395006730 c:\users\ryan flynn\dropbox\c++2\week07\fileserver\socket.h
+	<iostream>
+	<fstream>
+	"WinSock2.h"
+
+1395370816 source:c:\users\ryan flynn\dropbox\c++2\week07\fileserver\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Winsock2.h"
+	<dirent.h>
+	"Socket.h"
+
+1395704553 source:c:\users\ryan flynn\documents\github\fileserver\fileserver\socket.cpp
+	"Socket.h"
+
+1395534291 c:\users\ryan flynn\documents\github\fileserver\fileserver\socket.h
+	<iostream>
+	<fstream>
+	"WinSock2.h"
+
+1395681432 source:c:\users\ryan flynn\documents\github\fileserver\fileserver\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Winsock2.h"
+	<dirent.h>
+	"Socket.h"
+
+1395757122 source:c:\users\edward\desktop\project 2 version final ryan\fileserver-master\fileserver-master\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Winsock2.h"
+	<dirent.h>
+	"Socket.h"
+
+1395703252 c:\users\edward\desktop\project 2 version final ryan\fileserver-master\fileserver-master\socket.h
+	<iostream>
+	<fstream>
+	"WinSock2.h"
+
+1395703252 source:c:\users\edward\desktop\project 2 version final ryan\fileserver-master\fileserver-master\socket.cpp
+	"Socket.h"
+
+1395703252 source:c:\users\ryan flynn\desktop\fileserver-master\socket.cpp
+	"Socket.h"
+
+1395703252 c:\users\ryan flynn\desktop\fileserver-master\socket.h
+	<iostream>
+	<fstream>
+	"WinSock2.h"
+
+1395769274 source:c:\users\ryan flynn\desktop\fileserver-master\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Winsock2.h"
+	<dirent.h>
+	"Socket.h"
+
